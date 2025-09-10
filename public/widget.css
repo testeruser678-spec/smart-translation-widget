@@ -1,0 +1,15 @@
+#my-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #f7f7f7;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 9999;
+  font-family: Arial, sans-serif;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+#my-widget select, #my-widget button {
+  margin-top: 5px;
+}
